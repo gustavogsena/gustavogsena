@@ -2,9 +2,10 @@
 # Gustavo Sena
 <br>
 
-Hello there, I'm Gustavo Sena, a full stack web developer.
-I started a career transition in 2019 from marine engineer to developer, so I could explore more my logical and
-problem solving skills.
+I am a Fullstack Developer passionate about technology and programming,
+with a strong emphasis on backend development, particularly in Node.js and
+PHP. I have experience in projects using TypeScript, Python, Next.js, and
+React.
 
 <br>
 
