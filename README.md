@@ -3,8 +3,7 @@
 <br>
 
 Hello there, I'm Gustavo Sena, a full stack web developer.
-I started a career transition in 2019 from marine
-mechanical engineer to developer, so I could explore more my logical and
+I started a career transition in 2019 from marine engineer to developer, so I could explore more my logical and
 problem solving skills.
 
 <br>
