@@ -11,7 +11,7 @@ problem solving skills.
 
 ## 🔗 Conect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/Gaudereto-Sena)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/gustavogsena)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://https://www.instagram.com/gustavogaudereto/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/gustavogaudereto/)
 
@@ -38,13 +38,13 @@ problem solving skills.
 ## GitHub stats
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gaudereto-Sena&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustavogsena&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 <br>
 
 ## Main Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gaudereto-Sena&repo=Finance-Nest&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gaudereto-Sena/Finance-Nest)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gaudereto-Sena&repo=dungeon-crawler&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gaudereto-Sena/dungeon-crawler)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gaudereto-Sena&repo=Finance-Nest&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gustavogsena/Finance-Nest)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gaudereto-Sena&repo=dungeon-crawler&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gustavogsena/dungeon-crawler)
 
