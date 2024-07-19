@@ -44,6 +44,6 @@ problem solving skills.
 
 ## Main Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gaudereto-Sena&repo=Finance-Nest&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gustavogsena/Finance-Nest)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gaudereto-Sena&repo=dungeon-crawler&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gustavogsena/dungeon-crawler)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavogsena&repo=Finance-Nest&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gustavogsena/Finance-Nest)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavogsena&repo=dungeon-crawler&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gustavogsena/dungeon-crawler)
 
